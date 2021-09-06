@@ -1,6 +1,7 @@
 # Mermaid Game
 
-Live Demo: [https://scratch.mit.edu/projects/564564144](https://scratch.mit.edu/projects/564564144/)
+Live Demo: [https://scratch.mit.edu/projects/564564144](https://scratch.mit.edu/projects/564564144/) \
+Source Code: [https://scratch.mit.edu/projects/564564144/editor](https://scratch.mit.edu/projects/564564144/editor/)
 
 ![Winning the Mermaid Game](./assets/screenshot-win.gif)
 
