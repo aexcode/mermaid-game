@@ -25,5 +25,5 @@ In addition to the features required by the assignment, the mermaid game has som
 - [x] Slightly more advanced hit detection, dependent on multiple factors.
 - [x] Option to restart the game after winning.
 
-![Getting caught by and then ignored by the shark](./assets/screenshot-shark.gif)
+![Getting caught by and then ignored by the shark](./assets/screenshot-shark.gif) \
 _The shark will only bother you if you have pufferfish for him to eat._
